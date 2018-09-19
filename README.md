@@ -1,5 +1,5 @@
 # Jira-SetUp-MacOS
-This is a tutorial and how to set-up Jira Software Service on MacOS.
+This is a tutorial on how to set-up Jira Software Service on MacOS.
 
 ## Introduction
 When I got my licenses for Jira Software I was originally having trouble configuring it with my Mac.This is tutorial is
